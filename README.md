@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![](NFT-MarketPlace-UI/blob/main/Demo.mp4)
+![](NFT-MarketPlace-UI/blob/main/Demo.mp4 "pimp_my_button-showcase")
 
 A few resources to get you started if this is your first Flutter project:
 
